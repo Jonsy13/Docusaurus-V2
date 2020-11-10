@@ -10,7 +10,7 @@ Litmus community is a subset of the larger Kubernetes community. Have a question
 
 <br/><br/>
 
-<a href="https://kubernetes.slack.com/messages/CNXNB0ZTN" target="_blank"><img src="/docs/assets/join-community.png" width="400"/></a>
+<a href="https://kubernetes.slack.com/messages/CNXNB0ZTN" target="_blank"><img src={require('./assets/join-community.png').default} width="400"/></a>
 
 <br/>
 

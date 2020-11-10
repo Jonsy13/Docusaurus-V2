@@ -14,7 +14,7 @@ Use this video to learn how to get started with Litmus. You will learn how to in
 
 <a href="https://asciinema.org/a/G9TcXpgikLuGTBY7btIUNSuWN" target="_blank">
 
-<img src="/docs/assets/getstarted.svg" width="300"/>
+<img src={require('./assets/getstarted.svg').default} width="700"/>
 
 </a>
 

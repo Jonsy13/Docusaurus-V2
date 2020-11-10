@@ -50,7 +50,8 @@ module.exports = {
       title: "Litmus Docs",
       logo: {
         alt: "Litmus Logo",
-        src: "img/litmus-icon.svg",
+        srcDark: "img/litmus-icon.svg",
+        src: "img/litmus-light-icon.svg",
       },
       items: [
         {
